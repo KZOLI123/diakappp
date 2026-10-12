@@ -36,7 +36,7 @@ namespace diakappp
         }
         public override string ToString()
         {
-            return $"\" {Nev} ({Osztaly}) - {Pontszam} pont";
+            return $"{Nev} ({Osztaly}) - {Pontszam} pont";
         }
     }
 }
